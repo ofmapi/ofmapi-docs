@@ -40,6 +40,19 @@ community can:
 - 🔐 **Security & trust** — encryption, account safety, SOC 2 status,
   vulnerability reporting
 
+## Build the next generation of OnlyFans software
+
+The OFMAPI documentation covers everything you need to build products in
+the spirit of:
+
+- 🤖 **AI chat platforms** like Botly, Supercreator, Substy, ChatPersona
+- 📊 **Creator CRMs** like Infloww, OnlyMonster, CreatorHero
+- 📈 **Analytics & metrics tools** like FansMetric, FansIQ
+- 🎯 **Traffic & attribution platforms** like CreatorTraffic
+- 🔗 **Link-in-bio + deeplink products** like Juicy Bio, Hello Butter
+- 🧠 **AI agents** that operate connected creator accounts via Claude, ChatGPT, Cursor, or Manus
+- 🛠️ **Agency back-offices** managing hundreds of accounts from a single dashboard
+
 ## Contributing
 
 PRs welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for our docs style guide
